@@ -133,3 +133,5 @@ dmypy.json
 
 # Scripts
 x*.cmd
+
+.ipynb_checkpoints
