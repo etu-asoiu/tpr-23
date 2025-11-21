@@ -3,4 +3,7 @@ matplotlib==3.7.1
 pulp
 scipy
 # matplotlib
+pytest>=7.0.0
+pytest-cov>=4.0.0
+numpy>=1.20.0
 
